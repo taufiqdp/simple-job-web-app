@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "prettier": "^3.3.3",
-    "vue": "^3.4.31"
+    "primeicons": "^7.0.0",
+    "vue": "^3.4.31",
+    "vue-router": "^4.4.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
